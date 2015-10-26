@@ -1,0 +1,18 @@
+{
+  "name": "SCX",
+  "version": "0.0.1",
+  "description": "SCX",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kaizhi Wei",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2",
+    "compression": "^1.6.0",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "memory-cache": "^0.1.4"
+  }
+}
